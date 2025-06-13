@@ -2,7 +2,7 @@
     "usuarios": [
         {
             "id": "1",
-            "imagem": "./public/assets/images/people/eu.jpg",
+            "imagem": "https://vximoraes.github.io/dynamic-link-pages/assets/images/people/eu.jpg",
             "nome": "Vinícius Moraes",
             "background": "#f5f6fa",
             "cor_link": "#e3e8ee",
@@ -12,22 +12,22 @@
             "border_radius": "8px",
             "link": [
                 {
-                    "icone": "./public/assets/images/icons/linkedin.png",
+                    "icone": "https://vximoraes.github.io/dynamic-link-pages/assets/images/icons/linkedin.png",
                     "texto": "LinkedIn",
                     "url": "https://www.linkedin.com/in/moraesvini/"
                 },
                 {
-                    "icone": "./public/assets/images/icons/github.png",
+                    "icone": "https://vximoraes.github.io/dynamic-link-pages/assets/images/icons/github.png",
                     "texto": "GitHub",
                     "url": "https://github.com/vximoraes"
                 },
                 {
-                    "icone": "./public/assets/images/icons/mail.png",
+                    "icone": "https://vximoraes.github.io/dynamic-link-pages/assets/images/icons/mail.png",
                     "texto": "E-mail",
                     "url": "mailto:viniciusmoraesvha@gmail.com"
                 }
             ],
-            "qrcode": "./public/assets/images/qrcode/frame.png"
+            "qrcode": "https://vximoraes.github.io/dynamic-link-pages/assets/images/qrcode/frame.png"
         }
     ]
 }
