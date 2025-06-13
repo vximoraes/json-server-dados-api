@@ -1,5 +1,33 @@
 {
     "usuarios": [
-        
+        {
+            "id": "1",
+            "imagem": "./public/assets/images/people/eu.jpg",
+            "nome": "Vinícius Moraes",
+            "background": "#f5f6fa",
+            "cor_link": "#e3e8ee",
+            "cor_hover": "#bfc9d9",
+            "cor_icone": "#fff",
+            "cor_texto_link": "#000",
+            "border_radius": "8px",
+            "link": [
+                {
+                    "icone": "./public/assets/images/icons/linkedin.png",
+                    "texto": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/moraesvini/"
+                },
+                {
+                    "icone": "./public/assets/images/icons/github.png",
+                    "texto": "GitHub",
+                    "url": "https://github.com/vximoraes"
+                },
+                {
+                    "icone": "./public/assets/images/icons/mail.png",
+                    "texto": "E-mail",
+                    "url": "mailto:viniciusmoraesvha@gmail.com"
+                }
+            ],
+            "qrcode": "./public/assets/images/qrcode/image 6.png"
+        }
     ]
 }
